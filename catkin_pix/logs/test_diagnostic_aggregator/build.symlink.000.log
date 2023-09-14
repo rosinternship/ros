@@ -1,0 +1,4 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libtest_diagnostic_aggregator.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/test_diagnostic_aggregator.pc
+Symlinking /home/rishi/catkin_pix/devel/share/test_diagnostic_aggregator/cmake/test_diagnostic_aggregatorConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/test_diagnostic_aggregator/cmake/test_diagnostic_aggregatorConfig.cmake

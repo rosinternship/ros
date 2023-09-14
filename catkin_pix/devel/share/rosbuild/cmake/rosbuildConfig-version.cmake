@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosbuild/share/rosbuild/cmake/rosbuildConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/test_rosmaster/lib/python3/dist-packages/test_rosmaster/msg/_RosmsgC.py

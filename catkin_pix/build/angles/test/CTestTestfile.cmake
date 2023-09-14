@@ -1,0 +1,10 @@
+# CMake generated Testfile for 
+# Source directory: /home/rishi/catkin_pix/src/angles/angles/test
+# Build directory: /home/rishi/catkin_pix/build/angles/test
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_angles_gtest_utest "/home/rishi/catkin_pix/build/angles/catkin_generated/env_cached.sh" "/usr/bin/python3" "/home/rishi/catkin_pix/src/catkin/cmake/test/run_tests.py" "/home/rishi/catkin_pix/build/angles/test_results/angles/gtest-utest.xml" "--return-code" "/home/rishi/catkin_pix/devel/.private/angles/lib/angles/utest --gtest_output=xml:/home/rishi/catkin_pix/build/angles/test_results/angles/gtest-utest.xml")
+set_tests_properties(_ctest_angles_gtest_utest PROPERTIES  _BACKTRACE_TRIPLES "/home/rishi/catkin_pix/src/catkin/cmake/test/tests.cmake;160;add_test;/home/rishi/catkin_pix/src/catkin/cmake/test/gtest.cmake;98;catkin_run_tests_target;/home/rishi/catkin_pix/src/catkin/cmake/test/gtest.cmake;37;_catkin_add_google_test;/home/rishi/catkin_pix/src/angles/angles/test/CMakeLists.txt;2;catkin_add_gtest;/home/rishi/catkin_pix/src/angles/angles/test/CMakeLists.txt;0;")
+add_test(_ctest_angles_nosetests_utest.py "/home/rishi/catkin_pix/build/angles/catkin_generated/env_cached.sh" "/usr/bin/python3" "/home/rishi/catkin_pix/src/catkin/cmake/test/run_tests.py" "/home/rishi/catkin_pix/build/angles/test_results/angles/nosetests-utest.py.xml" "--return-code" "\"/usr/bin/cmake\" -E make_directory /home/rishi/catkin_pix/build/angles/test_results/angles" "/usr/bin/nosetests3 -P --process-timeout=60 /home/rishi/catkin_pix/src/angles/angles/test/utest.py --with-xunit --xunit-file=/home/rishi/catkin_pix/build/angles/test_results/angles/nosetests-utest.py.xml")
+set_tests_properties(_ctest_angles_nosetests_utest.py PROPERTIES  _BACKTRACE_TRIPLES "/home/rishi/catkin_pix/src/catkin/cmake/test/tests.cmake;160;add_test;/home/rishi/catkin_pix/src/catkin/cmake/test/nosetests.cmake;83;catkin_run_tests_target;/home/rishi/catkin_pix/src/angles/angles/test/CMakeLists.txt;3;catkin_add_nosetests;/home/rishi/catkin_pix/src/angles/angles/test/CMakeLists.txt;0;")

@@ -1,0 +1,4 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rosout.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/rosout/rosout
+Symlinking /home/rishi/catkin_pix/devel/share/rosout/cmake/rosoutConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosout/cmake/rosoutConfig-version.cmake

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>GCS</title>
+
+        <style>
+            .input-container {
+            position: absolute;
+            top: 400px; 
+            right: 74px;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>HeadQuarters</h1>
+        {% if length == 0 %}
+                <p>No bots added yet</p>
+        {% else %}
+            <ol>
+                {% for bot in bot_list %}
+                    <li><a href="/control/{{ bot.id }}">Bot {{ bot.id }}</a></li>
+                {% endfor %}
+            </ol>
+        {% endif %}
+
+        <div class="input-container">
+            <form method="post" action="/control/">
+                {% csrf_token %}
+                <button type="submit" name="Clear bots">Clear Bots</button>
+                <button type="submit" name="Add bot">Add Bot</button>
+                <button type="submit" name="execute_all">Execute All</button>
+
+            </form>
+    </div>
+    </body>
+</html>

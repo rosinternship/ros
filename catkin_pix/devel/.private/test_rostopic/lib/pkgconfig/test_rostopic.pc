@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/test_rostopic
+
+Name: test_rostopic
+Description: Description of test_rostopic
+Version: 1.16.0
+Cflags: -I/home/rishi/catkin_pix/devel/.private/test_rostopic/include
+Libs: -L${prefix}/lib 
+Requires: 

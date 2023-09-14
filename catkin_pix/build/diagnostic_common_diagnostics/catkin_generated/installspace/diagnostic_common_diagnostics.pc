@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/install
+
+Name: diagnostic_common_diagnostics
+Description: Description of diagnostic_common_diagnostics
+Version: 1.11.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

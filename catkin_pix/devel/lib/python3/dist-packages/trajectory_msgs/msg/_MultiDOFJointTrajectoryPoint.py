@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/trajectory_msgs/lib/python3/dist-packages/trajectory_msgs/msg/_MultiDOFJointTrajectoryPoint.py

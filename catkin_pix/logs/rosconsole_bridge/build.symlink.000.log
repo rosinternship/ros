@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/librosconsole_bridge.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rosconsole_bridge.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/rosconsole_bridge/cleanup
+Symlinking /home/rishi/catkin_pix/devel/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig-version.cmake

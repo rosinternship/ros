@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libmessage_filters.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/message_filters.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/message_filters/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/message_filters/cmake/message_filtersConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/message_filters/cmake/message_filtersConfig-version.cmake

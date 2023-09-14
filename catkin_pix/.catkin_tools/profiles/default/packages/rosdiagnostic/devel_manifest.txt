@@ -1,0 +1,6 @@
+diagnostics/rosdiagnostic
+/home/rishi/catkin_pix/devel/.private/rosdiagnostic/bin/rosdiagnostic /home/rishi/catkin_pix/devel/bin/rosdiagnostic
+/home/rishi/catkin_pix/devel/.private/rosdiagnostic/lib/pkgconfig/rosdiagnostic.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosdiagnostic.pc
+/home/rishi/catkin_pix/devel/.private/rosdiagnostic/lib/python3/dist-packages/rosdiagnostic/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosdiagnostic/__init__.py
+/home/rishi/catkin_pix/devel/.private/rosdiagnostic/share/rosdiagnostic/cmake/rosdiagnosticConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosdiagnostic/cmake/rosdiagnosticConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/rosdiagnostic/share/rosdiagnostic/cmake/rosdiagnosticConfig.cmake /home/rishi/catkin_pix/devel/share/rosdiagnostic/cmake/rosdiagnosticConfig.cmake

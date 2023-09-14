@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/roslib
+
+Name: roslib
+Description: Description of roslib
+Version: 1.15.8
+Cflags: -I/home/rishi/catkin_pix/src/ros/core/roslib/include
+Libs: -L${prefix}/lib -lroslib
+Requires: rospack

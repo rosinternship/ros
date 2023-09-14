@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/actionlib_msgs/share/common-lisp/ros/actionlib_msgs/msg/_package_GoalStatus.lisp

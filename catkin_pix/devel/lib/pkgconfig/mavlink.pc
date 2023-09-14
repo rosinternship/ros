@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel
+exec_prefix=/home/rishi/catkin_pix/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2023.6.6
+Cflags: -I${includedir}

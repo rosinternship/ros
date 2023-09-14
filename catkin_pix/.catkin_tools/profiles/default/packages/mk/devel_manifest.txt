@@ -1,0 +1,4 @@
+ros/core/mk
+/home/rishi/catkin_pix/devel/.private/mk/lib/pkgconfig/mk.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/mk.pc
+/home/rishi/catkin_pix/devel/.private/mk/share/mk/cmake/mkConfig.cmake /home/rishi/catkin_pix/devel/share/mk/cmake/mkConfig.cmake
+/home/rishi/catkin_pix/devel/.private/mk/share/mk/cmake/mkConfig-version.cmake /home/rishi/catkin_pix/devel/share/mk/cmake/mkConfig-version.cmake

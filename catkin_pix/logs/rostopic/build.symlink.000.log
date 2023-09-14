@@ -1,0 +1,6 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rostopic
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rostopic.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/rostopic/rostopic
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rostopic/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/rostopic/cmake/rostopicConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rostopic/cmake/rostopicConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/rosbuild
+
+Name: rosbuild
+Description: Description of rosbuild
+Version: 1.15.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

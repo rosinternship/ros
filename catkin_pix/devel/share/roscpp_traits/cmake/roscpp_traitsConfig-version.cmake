@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/roscpp_traits/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake

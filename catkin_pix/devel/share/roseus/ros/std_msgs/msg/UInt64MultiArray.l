@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/std_msgs/share/roseus/ros/std_msgs/msg/UInt64MultiArray.l

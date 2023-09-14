@@ -1,0 +1,6 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/genmsg.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/genmsg/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/lib/genmsg/genmsg_check_deps.py
+Symlinking /home/rishi/catkin_pix/devel/share/genmsg/cmake/genmsgConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/genmsg/cmake/genmsgConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/genmsg/cmake/genmsg-extras.cmake

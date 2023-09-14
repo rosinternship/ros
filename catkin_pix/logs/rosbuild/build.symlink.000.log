@@ -1,0 +1,7 @@
+Symlinking /home/rishi/catkin_pix/devel/etc/catkin/profile.d/10.rosbuild.sh
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rosbuild.pc
+Symlinking /home/rishi/catkin_pix/devel/share/ros/core/rosbuild/bin/check_same_directories.py
+Symlinking /home/rishi/catkin_pix/devel/share/ros/core/rosbuild/bin/download_checkmd5.py
+Symlinking /home/rishi/catkin_pix/devel/share/ros/core/rosbuild/tests/count_cores.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosbuild/cmake/rosbuildConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosbuild/cmake/rosbuildConfig.cmake

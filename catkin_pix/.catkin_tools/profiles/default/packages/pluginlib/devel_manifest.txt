@@ -1,0 +1,4 @@
+pluginlib/pluginlib
+/home/rishi/catkin_pix/devel/.private/pluginlib/lib/pkgconfig/pluginlib.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/pluginlib.pc
+/home/rishi/catkin_pix/devel/.private/pluginlib/share/pluginlib/cmake/pluginlibConfig-version.cmake /home/rishi/catkin_pix/devel/share/pluginlib/cmake/pluginlibConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/pluginlib/share/pluginlib/cmake/pluginlibConfig.cmake /home/rishi/catkin_pix/devel/share/pluginlib/cmake/pluginlibConfig.cmake

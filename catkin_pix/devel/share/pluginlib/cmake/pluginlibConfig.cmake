@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/pluginlib/share/pluginlib/cmake/pluginlibConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/pluginlib
+
+Name: pluginlib
+Description: Description of pluginlib
+Version: 1.13.0
+Cflags: -I/home/rishi/catkin_pix/src/pluginlib/pluginlib/include -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0 /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+Requires: class_loader rosconsole roslib

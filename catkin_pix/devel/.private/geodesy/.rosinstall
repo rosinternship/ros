@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rishi/catkin_pix/devel/.private/geodesy/setup.sh

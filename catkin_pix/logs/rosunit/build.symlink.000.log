@@ -1,0 +1,11 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rosunit
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rosunit.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosunit/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosunit/cmake/rosunit-extras.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosunit/cmake/rosunitConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosunit/cmake/rosunitConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosunit/scripts/clean_junit_xml.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosunit/scripts/summarize_results.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosunit/scripts/test_results_dir.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosunit/scripts/check_test_ran.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosunit/scripts/pycoverage_to_html.py

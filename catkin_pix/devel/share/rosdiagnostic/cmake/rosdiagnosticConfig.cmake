@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosdiagnostic/share/rosdiagnostic/cmake/rosdiagnosticConfig.cmake

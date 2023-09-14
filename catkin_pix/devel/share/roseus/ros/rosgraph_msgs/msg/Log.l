@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosgraph_msgs/share/roseus/ros/rosgraph_msgs/msg/Log.l

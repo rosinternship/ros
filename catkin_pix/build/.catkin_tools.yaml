@@ -1,0 +1,6 @@
+devel_space: /home/rishi/catkin_pix/devel
+install: false
+install_space: /home/rishi/catkin_pix/install
+profile: default
+source_space: /home/rishi/catkin_pix/src
+workspace: /home/rishi/catkin_pix

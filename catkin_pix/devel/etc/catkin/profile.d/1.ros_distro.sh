@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/ros_environment/etc/catkin/profile.d/1.ros_distro.sh

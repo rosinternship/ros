@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rospack/share/rospack/cmake/rospackConfig-version.cmake

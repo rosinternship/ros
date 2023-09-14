@@ -1,0 +1,7 @@
+Symlinking /home/rishi/catkin_pix/devel/etc/ros/genmsg/gencpp
+Symlinking /home/rishi/catkin_pix/devel/lib/gencpp/gen_cpp.py
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/gencpp.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/gencpp/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/gencpp/cmake/gencppConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/gencpp/cmake/gencpp-extras.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/gencpp/cmake/gencppConfig-version.cmake

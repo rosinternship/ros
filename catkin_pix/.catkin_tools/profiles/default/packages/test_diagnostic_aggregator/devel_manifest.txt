@@ -1,0 +1,5 @@
+diagnostics/test_diagnostic_aggregator
+/home/rishi/catkin_pix/devel/.private/test_diagnostic_aggregator/lib/libtest_diagnostic_aggregator.so /home/rishi/catkin_pix/devel/lib/libtest_diagnostic_aggregator.so
+/home/rishi/catkin_pix/devel/.private/test_diagnostic_aggregator/lib/pkgconfig/test_diagnostic_aggregator.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/test_diagnostic_aggregator.pc
+/home/rishi/catkin_pix/devel/.private/test_diagnostic_aggregator/share/test_diagnostic_aggregator/cmake/test_diagnostic_aggregatorConfig-version.cmake /home/rishi/catkin_pix/devel/share/test_diagnostic_aggregator/cmake/test_diagnostic_aggregatorConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/test_diagnostic_aggregator/share/test_diagnostic_aggregator/cmake/test_diagnostic_aggregatorConfig.cmake /home/rishi/catkin_pix/devel/share/test_diagnostic_aggregator/cmake/test_diagnostic_aggregatorConfig.cmake

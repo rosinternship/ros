@@ -1,0 +1,8 @@
+ros_comm/tools/rosmsg
+/home/rishi/catkin_pix/devel/.private/rosmsg/bin/rosmsg /home/rishi/catkin_pix/devel/bin/rosmsg
+/home/rishi/catkin_pix/devel/.private/rosmsg/bin/rossrv /home/rishi/catkin_pix/devel/bin/rossrv
+/home/rishi/catkin_pix/devel/.private/rosmsg/bin/rosmsg-proto /home/rishi/catkin_pix/devel/bin/rosmsg-proto
+/home/rishi/catkin_pix/devel/.private/rosmsg/lib/pkgconfig/rosmsg.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosmsg.pc
+/home/rishi/catkin_pix/devel/.private/rosmsg/lib/python3/dist-packages/rosmsg/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosmsg/__init__.py
+/home/rishi/catkin_pix/devel/.private/rosmsg/share/rosmsg/cmake/rosmsgConfig.cmake /home/rishi/catkin_pix/devel/share/rosmsg/cmake/rosmsgConfig.cmake
+/home/rishi/catkin_pix/devel/.private/rosmsg/share/rosmsg/cmake/rosmsgConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosmsg/cmake/rosmsgConfig-version.cmake

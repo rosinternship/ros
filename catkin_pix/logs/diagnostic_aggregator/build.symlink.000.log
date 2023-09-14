@@ -1,0 +1,7 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libdiagnostic_aggregator.so
+Symlinking /home/rishi/catkin_pix/devel/lib/diagnostic_aggregator/add_analyzers
+Symlinking /home/rishi/catkin_pix/devel/lib/diagnostic_aggregator/analyzer_loader
+Symlinking /home/rishi/catkin_pix/devel/lib/diagnostic_aggregator/aggregator_node
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/diagnostic_aggregator.pc
+Symlinking /home/rishi/catkin_pix/devel/share/diagnostic_aggregator/cmake/diagnostic_aggregatorConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/diagnostic_aggregator/cmake/diagnostic_aggregatorConfig-version.cmake

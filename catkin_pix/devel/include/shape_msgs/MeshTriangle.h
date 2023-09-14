@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/shape_msgs/include/shape_msgs/MeshTriangle.h

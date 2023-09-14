@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target rosbag_storage[0m
+[  6%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/bag.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/bag_player.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/buffer.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/bz2_stream.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/lz4_stream.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/chunked_file.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/message_instance.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/query.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/stream.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/view.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/uncompressed_stream.cpp.o[0m
+[ 75%] [32m[1mLinking CXX shared library /home/rishi/catkin_pix/devel/.private/rosbag_storage/lib/librosbag_storage.so[0m
+[ 75%] Built target rosbag_storage
+[35m[1mScanning dependencies of target rosbag_default_encryption_plugins[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/rosbag_default_encryption_plugins.dir/src/no_encryptor.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/rosbag_default_encryption_plugins.dir/src/gpgme_utils.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/rosbag_default_encryption_plugins.dir/src/aes_encryptor.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/rishi/catkin_pix/devel/.private/rosbag_storage/lib/librosbag_default_encryption_plugins.so[0m
+[100%] Built target rosbag_default_encryption_plugins

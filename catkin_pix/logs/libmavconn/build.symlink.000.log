@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libmavconn.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/libmavconn.pc
+Symlinking /home/rishi/catkin_pix/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake

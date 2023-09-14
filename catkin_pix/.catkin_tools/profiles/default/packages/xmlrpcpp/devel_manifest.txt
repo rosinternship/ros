@@ -1,0 +1,6 @@
+ros_comm/utilities/xmlrpcpp
+/home/rishi/catkin_pix/devel/.private/xmlrpcpp/lib/libxmlrpcpp.so /home/rishi/catkin_pix/devel/lib/libxmlrpcpp.so
+/home/rishi/catkin_pix/devel/.private/xmlrpcpp/lib/pkgconfig/xmlrpcpp.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/xmlrpcpp.pc
+/home/rishi/catkin_pix/devel/.private/xmlrpcpp/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake /home/rishi/catkin_pix/devel/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake
+/home/rishi/catkin_pix/devel/.private/xmlrpcpp/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake /home/rishi/catkin_pix/devel/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/xmlrpcpp/share/xmlrpcpp/cmake/xmlrpcpp-extras.cmake /home/rishi/catkin_pix/devel/share/xmlrpcpp/cmake/xmlrpcpp-extras.cmake

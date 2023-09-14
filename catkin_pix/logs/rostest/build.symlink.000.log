@@ -1,0 +1,10 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rostest
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rostest.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rostest/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/rostest/cmake/rostestConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rostest/cmake/rostestConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rostest/cmake/rostest-extras.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rostest/nodes/advertisetest
+Symlinking /home/rishi/catkin_pix/devel/share/rostest/nodes/hztest
+Symlinking /home/rishi/catkin_pix/devel/share/rostest/nodes/paramtest
+Symlinking /home/rishi/catkin_pix/devel/share/rostest/nodes/publishtest

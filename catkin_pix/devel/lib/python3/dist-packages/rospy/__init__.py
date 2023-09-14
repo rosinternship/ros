@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rospy/lib/python3/dist-packages/rospy/__init__.py

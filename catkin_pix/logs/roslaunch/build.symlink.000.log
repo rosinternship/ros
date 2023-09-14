@@ -1,0 +1,12 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/roscore
+Symlinking /home/rishi/catkin_pix/devel/bin/roslaunch-complete
+Symlinking /home/rishi/catkin_pix/devel/bin/roslaunch-deps
+Symlinking /home/rishi/catkin_pix/devel/bin/roslaunch
+Symlinking /home/rishi/catkin_pix/devel/bin/roslaunch-logs
+Symlinking /home/rishi/catkin_pix/devel/etc/catkin/profile.d/10.roslaunch.sh
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/roslaunch.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/roslaunch/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/roslaunch/cmake/roslaunch-extras.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/roslaunch/cmake/roslaunchConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/roslaunch/cmake/roslaunchConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/roslaunch/scripts/roslaunch-check

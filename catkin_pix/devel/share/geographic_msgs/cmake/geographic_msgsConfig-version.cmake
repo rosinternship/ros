@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/geographic_msgs/share/geographic_msgs/cmake/geographic_msgsConfig-version.cmake

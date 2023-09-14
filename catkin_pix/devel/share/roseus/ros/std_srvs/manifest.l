@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/std_srvs/share/roseus/ros/std_srvs/manifest.l

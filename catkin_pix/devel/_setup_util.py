@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/catkin/_setup_util.py

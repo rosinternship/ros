@@ -1,0 +1,5 @@
+class_loader
+/home/rishi/catkin_pix/devel/.private/class_loader/lib/libclass_loader.so /home/rishi/catkin_pix/devel/lib/libclass_loader.so
+/home/rishi/catkin_pix/devel/.private/class_loader/lib/pkgconfig/class_loader.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/class_loader.pc
+/home/rishi/catkin_pix/devel/.private/class_loader/share/class_loader/cmake/class_loaderConfig-version.cmake /home/rishi/catkin_pix/devel/share/class_loader/cmake/class_loaderConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/class_loader/share/class_loader/cmake/class_loaderConfig.cmake /home/rishi/catkin_pix/devel/share/class_loader/cmake/class_loaderConfig.cmake

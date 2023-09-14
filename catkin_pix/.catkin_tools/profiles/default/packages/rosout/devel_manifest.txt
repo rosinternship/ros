@@ -1,0 +1,5 @@
+ros_comm/tools/rosout
+/home/rishi/catkin_pix/devel/.private/rosout/lib/pkgconfig/rosout.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosout.pc
+/home/rishi/catkin_pix/devel/.private/rosout/lib/rosout/rosout /home/rishi/catkin_pix/devel/lib/rosout/rosout
+/home/rishi/catkin_pix/devel/.private/rosout/share/rosout/cmake/rosoutConfig.cmake /home/rishi/catkin_pix/devel/share/rosout/cmake/rosoutConfig.cmake
+/home/rishi/catkin_pix/devel/.private/rosout/share/rosout/cmake/rosoutConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosout/cmake/rosoutConfig-version.cmake

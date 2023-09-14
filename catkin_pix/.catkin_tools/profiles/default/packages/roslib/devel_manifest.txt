@@ -1,0 +1,9 @@
+ros/core/roslib
+/home/rishi/catkin_pix/devel/.private/roslib/lib/libroslib.so /home/rishi/catkin_pix/devel/lib/libroslib.so
+/home/rishi/catkin_pix/devel/.private/roslib/lib/pkgconfig/roslib.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/roslib.pc
+/home/rishi/catkin_pix/devel/.private/roslib/lib/python3/dist-packages/ros/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/ros/__init__.py
+/home/rishi/catkin_pix/devel/.private/roslib/lib/python3/dist-packages/roslib/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/roslib/__init__.py
+/home/rishi/catkin_pix/devel/.private/roslib/lib/roslib/gendeps /home/rishi/catkin_pix/devel/lib/roslib/gendeps
+/home/rishi/catkin_pix/devel/.private/roslib/share/roslib/cmake/roslibConfig.cmake /home/rishi/catkin_pix/devel/share/roslib/cmake/roslibConfig.cmake
+/home/rishi/catkin_pix/devel/.private/roslib/share/roslib/cmake/roslib-extras.cmake /home/rishi/catkin_pix/devel/share/roslib/cmake/roslib-extras.cmake
+/home/rishi/catkin_pix/devel/.private/roslib/share/roslib/cmake/roslibConfig-version.cmake /home/rishi/catkin_pix/devel/share/roslib/cmake/roslibConfig-version.cmake

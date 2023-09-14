@@ -1,0 +1,5 @@
+angles/angles
+/home/rishi/catkin_pix/devel/.private/angles/lib/pkgconfig/angles.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/angles.pc
+/home/rishi/catkin_pix/devel/.private/angles/lib/python3/dist-packages/angles/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/angles/__init__.py
+/home/rishi/catkin_pix/devel/.private/angles/share/angles/cmake/anglesConfig.cmake /home/rishi/catkin_pix/devel/share/angles/cmake/anglesConfig.cmake
+/home/rishi/catkin_pix/devel/.private/angles/share/angles/cmake/anglesConfig-version.cmake /home/rishi/catkin_pix/devel/share/angles/cmake/anglesConfig-version.cmake

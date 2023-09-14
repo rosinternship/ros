@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/test_roscpp/share/roseus/ros/test_roscpp/msg/Point32.l

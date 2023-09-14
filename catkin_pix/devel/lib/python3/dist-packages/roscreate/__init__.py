@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/roscreate/lib/python3/dist-packages/roscreate/__init__.py

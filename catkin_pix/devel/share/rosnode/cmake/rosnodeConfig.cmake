@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosnode/share/rosnode/cmake/rosnodeConfig.cmake

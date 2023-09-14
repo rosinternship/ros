@@ -1,0 +1,4 @@
+ros_comm/test/test_rosbag_storage
+/home/rishi/catkin_pix/devel/.private/test_rosbag_storage/lib/pkgconfig/test_rosbag_storage.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/test_rosbag_storage.pc
+/home/rishi/catkin_pix/devel/.private/test_rosbag_storage/share/test_rosbag_storage/cmake/test_rosbag_storageConfig.cmake /home/rishi/catkin_pix/devel/share/test_rosbag_storage/cmake/test_rosbag_storageConfig.cmake
+/home/rishi/catkin_pix/devel/.private/test_rosbag_storage/share/test_rosbag_storage/cmake/test_rosbag_storageConfig-version.cmake /home/rishi/catkin_pix/devel/share/test_rosbag_storage/cmake/test_rosbag_storageConfig-version.cmake

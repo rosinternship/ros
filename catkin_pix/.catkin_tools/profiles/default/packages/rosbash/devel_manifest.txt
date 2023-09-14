@@ -1,0 +1,9 @@
+ros/tools/rosbash
+/home/rishi/catkin_pix/devel/.private/rosbash/bin/rosrun /home/rishi/catkin_pix/devel/bin/rosrun
+/home/rishi/catkin_pix/devel/.private/rosbash/etc/catkin/profile.d/15.rosbash.fish /home/rishi/catkin_pix/devel/etc/catkin/profile.d/15.rosbash.fish
+/home/rishi/catkin_pix/devel/.private/rosbash/etc/catkin/profile.d/15.rosbash.zsh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/15.rosbash.zsh
+/home/rishi/catkin_pix/devel/.private/rosbash/etc/catkin/profile.d/15.rosbash.tcsh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/15.rosbash.tcsh
+/home/rishi/catkin_pix/devel/.private/rosbash/etc/catkin/profile.d/15.rosbash.bash /home/rishi/catkin_pix/devel/etc/catkin/profile.d/15.rosbash.bash
+/home/rishi/catkin_pix/devel/.private/rosbash/lib/pkgconfig/rosbash.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosbash.pc
+/home/rishi/catkin_pix/devel/.private/rosbash/share/rosbash/cmake/rosbashConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosbash/cmake/rosbashConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/rosbash/share/rosbash/cmake/rosbashConfig.cmake /home/rishi/catkin_pix/devel/share/rosbash/cmake/rosbashConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/rosservice
+
+Name: rosservice
+Description: Description of rosservice
+Version: 1.16.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

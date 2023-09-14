@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libxmlrpcpp.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/xmlrpcpp.pc
+Symlinking /home/rishi/catkin_pix/devel/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/xmlrpcpp/cmake/xmlrpcpp-extras.cmake

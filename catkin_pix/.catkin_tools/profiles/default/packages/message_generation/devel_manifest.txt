@@ -1,0 +1,4 @@
+message_generation
+/home/rishi/catkin_pix/devel/.private/message_generation/lib/pkgconfig/message_generation.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/message_generation.pc
+/home/rishi/catkin_pix/devel/.private/message_generation/share/message_generation/cmake/message_generationConfig-version.cmake /home/rishi/catkin_pix/devel/share/message_generation/cmake/message_generationConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/message_generation/share/message_generation/cmake/message_generationConfig.cmake /home/rishi/catkin_pix/devel/share/message_generation/cmake/message_generationConfig.cmake

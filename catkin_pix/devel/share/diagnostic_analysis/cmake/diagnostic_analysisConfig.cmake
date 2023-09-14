@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/diagnostic_analysis/share/diagnostic_analysis/cmake/diagnostic_analysisConfig.cmake

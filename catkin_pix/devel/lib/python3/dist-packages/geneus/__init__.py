@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/geneus/lib/python3/dist-packages/geneus/__init__.py

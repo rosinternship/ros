@@ -1,0 +1,6 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rosservice
+Symlinking /home/rishi/catkin_pix/devel/lib/rosservice/rosservice
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rosservice.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosservice/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosservice/cmake/rosserviceConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosservice/cmake/rosserviceConfig-version.cmake

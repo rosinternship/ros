@@ -1,0 +1,28 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _test_rosbag_generate_messages_check_deps_MigratedMixed
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target _test_rosbag_generate_messages_check_deps_MigratedExplicit
+[  0%] Built target _test_rosbag_generate_messages_check_deps_Unmigrated
+[  0%] Built target _test_rosbag_generate_messages_check_deps_Converged
+[  0%] Built target _test_rosbag_generate_messages_check_deps_MigratedAddSub
+[  0%] Built target _test_rosbag_generate_messages_check_deps_Constants
+[  0%] Built target _test_rosbag_generate_messages_check_deps_PartiallyMigrated
+[  0%] Built target _test_rosbag_generate_messages_check_deps_SimpleMigrated
+[  0%] Built target _test_rosbag_generate_messages_check_deps_Simple
+[  0%] Built target _test_rosbag_generate_messages_check_deps_SubUnmigrated
+[  0%] Built target _test_rosbag_generate_messages_check_deps_MigratedImplicit
+[  0%] Built target _test_rosbag_generate_messages_check_deps_Renamed5
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[ 19%] Built target test_rosbag_generate_messages_lisp
+[ 38%] Built target test_rosbag_generate_messages_nodejs
+[ 59%] Built target test_rosbag_generate_messages_eus
+[ 79%] Built target test_rosbag_generate_messages_cpp
+[100%] Built target test_rosbag_generate_messages_py
+[100%] Built target test_rosbag_generate_messages

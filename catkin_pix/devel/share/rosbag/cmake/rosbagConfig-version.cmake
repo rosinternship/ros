@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig-version.cmake

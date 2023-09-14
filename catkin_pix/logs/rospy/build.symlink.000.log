@@ -1,0 +1,8 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rosconsole
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rospy.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rospy/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/rospy/cmake/rospyConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rospy/cmake/rospyConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rospy/rosbuild/scripts/gensrv_py.py
+Symlinking /home/rishi/catkin_pix/devel/share/rospy/rosbuild/scripts/genutil.py
+Symlinking /home/rishi/catkin_pix/devel/share/rospy/rosbuild/scripts/genmsg_py.py

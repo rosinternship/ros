@@ -1,0 +1,19 @@
+common_msgs/stereo_msgs
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/include/stereo_msgs/DisparityImage.h /home/rishi/catkin_pix/devel/include/stereo_msgs/DisparityImage.h
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/lib/pkgconfig/stereo_msgs.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/stereo_msgs.pc
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/lib/python3/dist-packages/stereo_msgs/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/stereo_msgs/__init__.py
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/lib/python3/dist-packages/stereo_msgs/msg/_DisparityImage.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/stereo_msgs/msg/_DisparityImage.py
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/lib/python3/dist-packages/stereo_msgs/msg/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/stereo_msgs/msg/__init__.py
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/gennodejs/ros/stereo_msgs/_index.js /home/rishi/catkin_pix/devel/share/gennodejs/ros/stereo_msgs/_index.js
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/gennodejs/ros/stereo_msgs/msg/_index.js /home/rishi/catkin_pix/devel/share/gennodejs/ros/stereo_msgs/msg/_index.js
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/gennodejs/ros/stereo_msgs/msg/DisparityImage.js /home/rishi/catkin_pix/devel/share/gennodejs/ros/stereo_msgs/msg/DisparityImage.js
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/common-lisp/ros/stereo_msgs/msg/DisparityImage.lisp /home/rishi/catkin_pix/devel/share/common-lisp/ros/stereo_msgs/msg/DisparityImage.lisp
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/common-lisp/ros/stereo_msgs/msg/_package_DisparityImage.lisp /home/rishi/catkin_pix/devel/share/common-lisp/ros/stereo_msgs/msg/_package_DisparityImage.lisp
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/common-lisp/ros/stereo_msgs/msg/stereo_msgs-msg.asd /home/rishi/catkin_pix/devel/share/common-lisp/ros/stereo_msgs/msg/stereo_msgs-msg.asd
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/common-lisp/ros/stereo_msgs/msg/_package.lisp /home/rishi/catkin_pix/devel/share/common-lisp/ros/stereo_msgs/msg/_package.lisp
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs-msg-extras.cmake /home/rishi/catkin_pix/devel/share/stereo_msgs/cmake/stereo_msgs-msg-extras.cmake
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/stereo_msgs/cmake/stereo_msgsConfig-version.cmake /home/rishi/catkin_pix/devel/share/stereo_msgs/cmake/stereo_msgsConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs-msg-paths.cmake /home/rishi/catkin_pix/devel/share/stereo_msgs/cmake/stereo_msgs-msg-paths.cmake
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/stereo_msgs/cmake/stereo_msgsConfig.cmake /home/rishi/catkin_pix/devel/share/stereo_msgs/cmake/stereo_msgsConfig.cmake
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/roseus/ros/stereo_msgs/manifest.l /home/rishi/catkin_pix/devel/share/roseus/ros/stereo_msgs/manifest.l
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/roseus/ros/stereo_msgs/msg/DisparityImage.l /home/rishi/catkin_pix/devel/share/roseus/ros/stereo_msgs/msg/DisparityImage.l

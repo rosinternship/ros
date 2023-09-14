@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosmaster/share/rosmaster/cmake/rosmasterConfig.cmake

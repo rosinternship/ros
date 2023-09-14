@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/roscpp/share/gennodejs/ros/roscpp/msg/Logger.js

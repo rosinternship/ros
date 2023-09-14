@@ -1,0 +1,4 @@
+roscpp_core/roscpp_traits
+/home/rishi/catkin_pix/devel/.private/roscpp_traits/lib/pkgconfig/roscpp_traits.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/roscpp_traits.pc
+/home/rishi/catkin_pix/devel/.private/roscpp_traits/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake /home/rishi/catkin_pix/devel/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/roscpp_traits/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake /home/rishi/catkin_pix/devel/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake

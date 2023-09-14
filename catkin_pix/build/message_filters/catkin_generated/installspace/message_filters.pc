@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/install
+
+Name: message_filters
+Description: Description of message_filters
+Version: 1.16.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmessage_filters
+Requires: roscpp rosconsole

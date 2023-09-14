@@ -1,0 +1,4 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libeigen_conversions.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/eigen_conversions.pc
+Symlinking /home/rishi/catkin_pix/devel/share/eigen_conversions/cmake/eigen_conversionsConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/eigen_conversions/cmake/eigen_conversionsConfig-version.cmake

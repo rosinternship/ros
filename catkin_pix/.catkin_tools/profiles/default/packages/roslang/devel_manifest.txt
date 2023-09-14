@@ -1,0 +1,4 @@
+ros/core/roslang
+/home/rishi/catkin_pix/devel/.private/roslang/lib/pkgconfig/roslang.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/roslang.pc
+/home/rishi/catkin_pix/devel/.private/roslang/share/roslang/cmake/roslangConfig-version.cmake /home/rishi/catkin_pix/devel/share/roslang/cmake/roslangConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/roslang/share/roslang/cmake/roslangConfig.cmake /home/rishi/catkin_pix/devel/share/roslang/cmake/roslangConfig.cmake

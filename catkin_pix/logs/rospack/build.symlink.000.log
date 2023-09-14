@@ -1,0 +1,6 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rospack
+Symlinking /home/rishi/catkin_pix/devel/bin/rosstack
+Symlinking /home/rishi/catkin_pix/devel/lib/librospack.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rospack.pc
+Symlinking /home/rishi/catkin_pix/devel/share/rospack/cmake/rospackConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rospack/cmake/rospackConfig-version.cmake

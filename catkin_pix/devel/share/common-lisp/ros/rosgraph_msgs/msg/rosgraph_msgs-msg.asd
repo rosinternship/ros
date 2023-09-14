@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosgraph_msgs/share/common-lisp/ros/rosgraph_msgs/msg/rosgraph_msgs-msg.asd

@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/test_rosservice/lib/python3/dist-packages/test_rosservice/srv/__init__.py

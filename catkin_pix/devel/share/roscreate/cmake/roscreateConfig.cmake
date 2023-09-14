@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/roscreate/share/roscreate/cmake/roscreateConfig.cmake

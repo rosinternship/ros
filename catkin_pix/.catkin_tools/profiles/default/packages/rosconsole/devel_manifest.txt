@@ -1,0 +1,9 @@
+rosconsole
+/home/rishi/catkin_pix/devel/.private/rosconsole/etc/catkin/profile.d/10.rosconsole.sh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/10.rosconsole.sh
+/home/rishi/catkin_pix/devel/.private/rosconsole/lib/librosconsole_backend_interface.so /home/rishi/catkin_pix/devel/lib/librosconsole_backend_interface.so
+/home/rishi/catkin_pix/devel/.private/rosconsole/lib/librosconsole_log4cxx.so /home/rishi/catkin_pix/devel/lib/librosconsole_log4cxx.so
+/home/rishi/catkin_pix/devel/.private/rosconsole/lib/librosconsole.so /home/rishi/catkin_pix/devel/lib/librosconsole.so
+/home/rishi/catkin_pix/devel/.private/rosconsole/lib/pkgconfig/rosconsole.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosconsole.pc
+/home/rishi/catkin_pix/devel/.private/rosconsole/share/rosconsole/cmake/rosconsoleConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosconsole/cmake/rosconsoleConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/rosconsole/share/rosconsole/cmake/rosconsole-extras.cmake /home/rishi/catkin_pix/devel/share/rosconsole/cmake/rosconsole-extras.cmake
+/home/rishi/catkin_pix/devel/.private/rosconsole/share/rosconsole/cmake/rosconsoleConfig.cmake /home/rishi/catkin_pix/devel/share/rosconsole/cmake/rosconsoleConfig.cmake

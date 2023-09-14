@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rosdiagnostic
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rosdiagnostic.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosdiagnostic/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosdiagnostic/cmake/rosdiagnosticConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosdiagnostic/cmake/rosdiagnosticConfig.cmake

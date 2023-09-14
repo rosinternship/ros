@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/tf2_py.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/tf2_py/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/tf2_py/_tf2.so
+Symlinking /home/rishi/catkin_pix/devel/share/tf2_py/cmake/tf2_pyConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/tf2_py/cmake/tf2_pyConfig-version.cmake

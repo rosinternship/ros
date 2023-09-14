@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/rosdiagnostic
+
+Name: rosdiagnostic
+Description: Description of rosdiagnostic
+Version: 1.11.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

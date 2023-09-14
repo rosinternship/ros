@@ -1,0 +1,6 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libdiagnostic_updater.so
+Symlinking /home/rishi/catkin_pix/devel/lib/diagnostic_updater/example
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/diagnostic_updater.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/diagnostic_updater/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/diagnostic_updater/cmake/diagnostic_updaterConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/diagnostic_updater/cmake/diagnostic_updaterConfig-version.cmake

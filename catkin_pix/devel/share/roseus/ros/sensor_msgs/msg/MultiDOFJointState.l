@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/sensor_msgs/share/roseus/ros/sensor_msgs/msg/MultiDOFJointState.l

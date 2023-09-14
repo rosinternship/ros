@@ -1,0 +1,6 @@
+mavros/test_mavros
+/home/rishi/catkin_pix/devel/.private/test_mavros/lib/libmavros_sitl_test.so /home/rishi/catkin_pix/devel/lib/libmavros_sitl_test.so
+/home/rishi/catkin_pix/devel/.private/test_mavros/lib/test_mavros/sitl_test_node /home/rishi/catkin_pix/devel/lib/test_mavros/sitl_test_node
+/home/rishi/catkin_pix/devel/.private/test_mavros/lib/pkgconfig/test_mavros.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/test_mavros.pc
+/home/rishi/catkin_pix/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig.cmake /home/rishi/catkin_pix/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+/home/rishi/catkin_pix/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig-version.cmake /home/rishi/catkin_pix/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake

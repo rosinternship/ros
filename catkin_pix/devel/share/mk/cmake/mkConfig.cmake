@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/mk/share/mk/cmake/mkConfig.cmake

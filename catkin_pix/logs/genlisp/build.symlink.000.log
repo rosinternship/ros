@@ -1,0 +1,8 @@
+Symlinking /home/rishi/catkin_pix/devel/etc/ros/genmsg/genlisp
+Symlinking /home/rishi/catkin_pix/devel/lib/genlisp/gen_lisp.py
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/genlisp.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/genlisp/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/genlisp/cmake/genlisp-extras.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/genlisp/cmake/genlispConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/genlisp/cmake/genlispConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/common-lisp/rospack_nosubdirs

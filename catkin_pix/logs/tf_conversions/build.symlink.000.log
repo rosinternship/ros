@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libtf_conversions.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/tf_conversions.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/tf_conversions/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/tf_conversions/cmake/tf_conversionsConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/tf_conversions/cmake/tf_conversionsConfig-version.cmake

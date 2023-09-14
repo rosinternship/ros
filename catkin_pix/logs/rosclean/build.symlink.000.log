@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rosclean
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rosclean.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosclean/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosclean/cmake/roscleanConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosclean/cmake/roscleanConfig.cmake

@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/roslaunch/etc/catkin/profile.d/10.roslaunch.sh

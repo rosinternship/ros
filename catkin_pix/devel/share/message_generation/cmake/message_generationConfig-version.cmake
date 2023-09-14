@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/message_generation/share/message_generation/cmake/message_generationConfig-version.cmake

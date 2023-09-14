@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/fix_msg_defs.py

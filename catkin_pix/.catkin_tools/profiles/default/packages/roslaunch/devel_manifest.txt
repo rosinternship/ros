@@ -1,0 +1,13 @@
+ros_comm/tools/roslaunch
+/home/rishi/catkin_pix/devel/.private/roslaunch/bin/roscore /home/rishi/catkin_pix/devel/bin/roscore
+/home/rishi/catkin_pix/devel/.private/roslaunch/bin/roslaunch-complete /home/rishi/catkin_pix/devel/bin/roslaunch-complete
+/home/rishi/catkin_pix/devel/.private/roslaunch/bin/roslaunch-deps /home/rishi/catkin_pix/devel/bin/roslaunch-deps
+/home/rishi/catkin_pix/devel/.private/roslaunch/bin/roslaunch /home/rishi/catkin_pix/devel/bin/roslaunch
+/home/rishi/catkin_pix/devel/.private/roslaunch/bin/roslaunch-logs /home/rishi/catkin_pix/devel/bin/roslaunch-logs
+/home/rishi/catkin_pix/devel/.private/roslaunch/etc/catkin/profile.d/10.roslaunch.sh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/10.roslaunch.sh
+/home/rishi/catkin_pix/devel/.private/roslaunch/lib/pkgconfig/roslaunch.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/roslaunch.pc
+/home/rishi/catkin_pix/devel/.private/roslaunch/lib/python3/dist-packages/roslaunch/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/roslaunch/__init__.py
+/home/rishi/catkin_pix/devel/.private/roslaunch/share/roslaunch/cmake/roslaunch-extras.cmake /home/rishi/catkin_pix/devel/share/roslaunch/cmake/roslaunch-extras.cmake
+/home/rishi/catkin_pix/devel/.private/roslaunch/share/roslaunch/cmake/roslaunchConfig-version.cmake /home/rishi/catkin_pix/devel/share/roslaunch/cmake/roslaunchConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/roslaunch/share/roslaunch/cmake/roslaunchConfig.cmake /home/rishi/catkin_pix/devel/share/roslaunch/cmake/roslaunchConfig.cmake
+/home/rishi/catkin_pix/devel/.private/roslaunch/share/roslaunch/scripts/roslaunch-check /home/rishi/catkin_pix/devel/share/roslaunch/scripts/roslaunch-check

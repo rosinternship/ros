@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/nav_msgs/share/roseus/ros/nav_msgs/msg/GetMapActionFeedback.l

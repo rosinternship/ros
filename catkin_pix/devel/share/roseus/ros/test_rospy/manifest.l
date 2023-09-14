@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/test_rospy/share/roseus/ros/test_rospy/manifest.l

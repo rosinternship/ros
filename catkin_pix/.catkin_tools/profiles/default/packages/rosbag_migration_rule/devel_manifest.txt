@@ -1,0 +1,4 @@
+rosbag_migration_rule
+/home/rishi/catkin_pix/devel/.private/rosbag_migration_rule/lib/pkgconfig/rosbag_migration_rule.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosbag_migration_rule.pc
+/home/rishi/catkin_pix/devel/.private/rosbag_migration_rule/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig.cmake /home/rishi/catkin_pix/devel/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig.cmake
+/home/rishi/catkin_pix/devel/.private/rosbag_migration_rule/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig-version.cmake

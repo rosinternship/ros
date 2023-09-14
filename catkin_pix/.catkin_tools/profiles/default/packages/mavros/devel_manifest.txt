@@ -1,0 +1,19 @@
+mavros/mavros
+/home/rishi/catkin_pix/devel/.private/mavros/lib/libmavros_plugins.so /home/rishi/catkin_pix/devel/lib/libmavros_plugins.so
+/home/rishi/catkin_pix/devel/.private/mavros/lib/libmavros.so /home/rishi/catkin_pix/devel/lib/libmavros.so
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/mavros_node /home/rishi/catkin_pix/devel/lib/mavros/mavros_node
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/mavsys /home/rishi/catkin_pix/devel/lib/mavros/mavsys
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/mavcmd /home/rishi/catkin_pix/devel/lib/mavros/mavcmd
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/gcs_bridge /home/rishi/catkin_pix/devel/lib/mavros/gcs_bridge
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/mavparam /home/rishi/catkin_pix/devel/lib/mavros/mavparam
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/mavsafety /home/rishi/catkin_pix/devel/lib/mavros/mavsafety
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/install_geographiclib_datasets.sh /home/rishi/catkin_pix/devel/lib/mavros/install_geographiclib_datasets.sh
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/mavftp /home/rishi/catkin_pix/devel/lib/mavros/mavftp
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/mavsetp /home/rishi/catkin_pix/devel/lib/mavros/mavsetp
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/event_launcher /home/rishi/catkin_pix/devel/lib/mavros/event_launcher
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/checkid /home/rishi/catkin_pix/devel/lib/mavros/checkid
+/home/rishi/catkin_pix/devel/.private/mavros/lib/mavros/mavwp /home/rishi/catkin_pix/devel/lib/mavros/mavwp
+/home/rishi/catkin_pix/devel/.private/mavros/lib/pkgconfig/mavros.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/mavros.pc
+/home/rishi/catkin_pix/devel/.private/mavros/lib/python3/dist-packages/mavros/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/mavros/__init__.py
+/home/rishi/catkin_pix/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake /home/rishi/catkin_pix/devel/share/mavros/cmake/mavrosConfig.cmake
+/home/rishi/catkin_pix/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake /home/rishi/catkin_pix/devel/share/mavros/cmake/mavrosConfig-version.cmake

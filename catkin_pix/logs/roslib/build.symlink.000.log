@@ -1,0 +1,8 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libroslib.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/roslib.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/ros/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/roslib/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/lib/roslib/gendeps
+Symlinking /home/rishi/catkin_pix/devel/share/roslib/cmake/roslibConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/roslib/cmake/roslib-extras.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/roslib/cmake/roslibConfig-version.cmake

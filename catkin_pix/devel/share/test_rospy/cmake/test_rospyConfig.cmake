@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/test_rospy/share/test_rospy/cmake/test_rospyConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/tf2_eigen
+
+Name: tf2_eigen
+Description: Description of tf2_eigen
+Version: 0.7.6
+Cflags: -I/home/rishi/catkin_pix/src/geometry2/tf2_eigen/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: tf2

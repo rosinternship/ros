@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> Robot {{ bot.id }}</title>
+</head>
+
+<body>
+    <p>Enter the coordinates for bot {{ bot.id }} here: </p>
+    <br>
+    <form action="/control/{{ bot.id }}" method="post">
+        {% csrf_token %}
+        <label for="x-coordinate">X Coordinate:</label>
+        <input type="floatformat" id="x-coordinate" name="x-coordinate">
+        <br>
+        <label for="y-coordinate">Y Coordinate:</label>
+        <input type="floatformat" id="y-coordinate" name="y-coordinate">
+        <br><br>
+        <button type="submit" name="Add Waypoint">Add Waypoint</button>
+        <button type="submit" name="clear_commands">Clear Waypoints</button>
+        <button type="submit" name="execute">Execute</button>
+    </form>
+    <br><br>
+    
+    <a href="/control">HomePage</a>
+    <br><br>
+    <table>
+        <tr>
+            <th>X Coordinate</th>
+            <th>Y Coordinate</th>
+            
+        </tr>
+        {% for point in bot.waypoints %}
+            <tr>
+                <td>{{ point.0 }}</td>
+                <td>{{ point.1 }}</td>
+                
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>

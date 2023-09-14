@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/test_rosservice
+
+Name: test_rosservice
+Description: Description of test_rosservice
+Version: 1.16.0
+Cflags: -I/home/rishi/catkin_pix/devel/.private/test_rosservice/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/roslaunch/share/roslaunch/cmake/roslaunchConfig.cmake

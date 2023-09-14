@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake

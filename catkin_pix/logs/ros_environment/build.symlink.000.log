@@ -1,0 +1,8 @@
+Symlinking /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_python_version.sh
+Symlinking /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_distro.sh
+Symlinking /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_package_path.sh
+Symlinking /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_etc_dir.sh
+Symlinking /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_version.sh
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/ros_environment.pc
+Symlinking /home/rishi/catkin_pix/devel/share/ros_environment/cmake/ros_environmentConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/ros_environment/cmake/ros_environmentConfig-version.cmake

@@ -1,0 +1,9 @@
+ros_comm/clients/rospy
+/home/rishi/catkin_pix/devel/.private/rospy/bin/rosconsole /home/rishi/catkin_pix/devel/bin/rosconsole
+/home/rishi/catkin_pix/devel/.private/rospy/lib/pkgconfig/rospy.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rospy.pc
+/home/rishi/catkin_pix/devel/.private/rospy/lib/python3/dist-packages/rospy/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rospy/__init__.py
+/home/rishi/catkin_pix/devel/.private/rospy/share/rospy/cmake/rospyConfig-version.cmake /home/rishi/catkin_pix/devel/share/rospy/cmake/rospyConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/rospy/share/rospy/cmake/rospyConfig.cmake /home/rishi/catkin_pix/devel/share/rospy/cmake/rospyConfig.cmake
+/home/rishi/catkin_pix/devel/.private/rospy/share/rospy/rosbuild/scripts/gensrv_py.py /home/rishi/catkin_pix/devel/share/rospy/rosbuild/scripts/gensrv_py.py
+/home/rishi/catkin_pix/devel/.private/rospy/share/rospy/rosbuild/scripts/genutil.py /home/rishi/catkin_pix/devel/share/rospy/rosbuild/scripts/genutil.py
+/home/rishi/catkin_pix/devel/.private/rospy/share/rospy/rosbuild/scripts/genmsg_py.py /home/rishi/catkin_pix/devel/share/rospy/rosbuild/scripts/genmsg_py.py

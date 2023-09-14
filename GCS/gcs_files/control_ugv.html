@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Control UGV</title>
+    <style>
+        /* Add custom styling for the tabs */
+        .tab {
+            display: none;
+        }
+        .tab-button {
+            cursor: pointer;
+            padding: 8px 16px;
+            background-color: #f2f2f2;
+            border: none;
+            outline: none;
+            transition: background-color 0.3s;
+        }
+        .tab-button:hover {
+            background-color: #ddd;
+        }
+        .active {
+            background-color: #ccc;
+        }
+    </style>
+    <script>
+        // Add JavaScript to handle tab switching
+        function openTab(evt, tabName) {
+            // Hide all tabs and remove the active class from tab buttons
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tab");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tab-button");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+
+            // Show the selected tab and add the active class to the corresponding tab button
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+    </script>
+    
+</head>
+<body>
+    <h1>Control UGV</h1>
+    {% if connected_to_ros %}
+        <p>Connected to ROS successfully!</p>
+    {% else %}
+        <p>Failed to connect to ROS.</p>
+    {% endif %}
+    <style>
+        .table-container {
+            position: absolute;
+            top: 40px;
+            right: 100px;
+        }
+        .waypoints-title {
+            text-align: center;
+            font-weight: bold;
+            font-size: 25px;
+            margin-bottom: 10px;
+            margin-top: 0;
+        }
+        .input-container {
+            position: absolute;
+            top: 400px; 
+            right: 74px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            background-color: #ddd;
+            border: 1px solid black;
+        }
+    
+        th, td {
+            text-align: left;
+            padding: 4px;
+            font-size: 14px;
+            border-bottom: 1px solid black;
+            border-right: 1px solid black;
+        }
+        th {
+            background-color: lightblue;
+            border-top: 1px solid black;
+            border-left: 1px solid black;
+        }
+       
+    
+        tr:hover {
+            background-color: grey ;
+        }
+    </style>
+
+<div class="input-container">
+    <form method="post" action="/control_ugv/">
+        {% csrf_token %}
+        <label for="turtle-id">TurtleBot ID:</label>
+        <input type="number" id="turtle_id" name="turtle_id" >
+        <br><br>
+        <label for="x-coordinate">X Coordinate:</label>
+        <input type="floatformat" id="x-coordinate" name="x-coordinate">
+        <br>
+        <label for="y-coordinate">Y Coordinate:</label>
+        <input type="floatformat" id="y-coordinate" name="y-coordinate">
+        <br>
+        <br>
+        <button type="submit" name="clear_bots">clear-bots</button>
+        <button type="submit" name="add_command">Add</button>
+        <button type="submit" name="execute_commands">Execute Waypoints</button>
+        <button type="submit" name="clear_commands">Clear Waypoints</button>
+        <button type="submit" name="add_bot">Add Bot</button>
+    </form>
+
+    {% if success_message %}
+        <p>{{ success_message }}</p>
+    {% endif %}
+</div>
+    {% if command_list %}
+    <div class="tab-buttons">
+        <button class="tab-button active" onclick="openTab(event, 'waypoints-tab')">Waypoints</button>
+        {% for bot in turtle_bots %}
+            <button class="tab-button" onclick="openTab(event, 'bot{{ bot.id }}-tab')">H{{ bot.id }}</button>
+        {% endfor %}
+    </div>
+
+    <div id="waypoints-tab" class="tab" style="display: block;">
+        {% if command_list %}
+            <h2 class="waypoints-title">Waypoints</h2>
+            <table>
+                <tr>
+                    <th>X Coordinate</th>
+                    <th>Y Coordinate</th>
+                    <th>Status</th>
+                </tr>
+                {% for command in command_list %}
+                    <tr>
+                        <td>{{ command.x_coordinate }}</td>
+                        <td>{{ command.y_coordinate }}</td>
+                        <td>{{ command.success_message }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        {% else %}
+            <p>No commands in the list.</p>
+        {% endif %}
+    </div>
+
+    {% for bot in turtle_bots %}
+        <div id="bot{{ bot.id }}-tab" class="tab">
+            <h2 class="bot-title">H{{ bot.id }}</h2>
+            <!-- Add the content specific to each turtle bot here -->
+            <p>Bot ID: {{ bot.id }}</p>
+            <p>Bot Status: {{ bot.status }}</p>
+            <!-- Add more details or controls for the turtle bot as needed -->
+        </div>
+    {% endfor %}
+    <div class="input-container">
+    {% else %}
+        <p>No commands in the list.</p>
+    {% endif %}
+    </div>
+    <div class="table-container">
+        <p class="bots-title">Turtle Bots</p>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Status</th>
+            </tr>
+            {% for bot in bot_list %}
+                <tr>
+                    <td>{{ bot.id }}</td>
+                    
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+</body>
+</html>

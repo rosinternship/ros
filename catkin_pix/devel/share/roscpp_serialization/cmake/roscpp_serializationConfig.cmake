@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/roscpp_serialization/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake

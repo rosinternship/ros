@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/shape_msgs/lib/pkgconfig/shape_msgs.pc

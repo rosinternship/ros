@@ -1,0 +1,4 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/librostime.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rostime.pc
+Symlinking /home/rishi/catkin_pix/devel/share/rostime/cmake/rostimeConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rostime/cmake/rostimeConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/rishi/catkin_pix/devel/lib/libroscpp_serialization.so
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/roscpp_serialization.pc
+Symlinking /home/rishi/catkin_pix/devel/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake

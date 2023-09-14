@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/share/roseus/ros/stereo_msgs/msg/DisparityImage.l

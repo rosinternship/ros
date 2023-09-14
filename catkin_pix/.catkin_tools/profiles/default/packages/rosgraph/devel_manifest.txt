@@ -1,0 +1,7 @@
+ros_comm/tools/rosgraph
+/home/rishi/catkin_pix/devel/.private/rosgraph/bin/rosgraph /home/rishi/catkin_pix/devel/bin/rosgraph
+/home/rishi/catkin_pix/devel/.private/rosgraph/lib/rosgraph/rosgraph /home/rishi/catkin_pix/devel/lib/rosgraph/rosgraph
+/home/rishi/catkin_pix/devel/.private/rosgraph/lib/pkgconfig/rosgraph.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosgraph.pc
+/home/rishi/catkin_pix/devel/.private/rosgraph/lib/python3/dist-packages/rosgraph/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosgraph/__init__.py
+/home/rishi/catkin_pix/devel/.private/rosgraph/share/rosgraph/cmake/rosgraphConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosgraph/cmake/rosgraphConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/rosgraph/share/rosgraph/cmake/rosgraphConfig.cmake /home/rishi/catkin_pix/devel/share/rosgraph/cmake/rosgraphConfig.cmake

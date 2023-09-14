@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/sensor_msgs/share/sensor_msgs/cmake/sensor_msgsConfig.cmake

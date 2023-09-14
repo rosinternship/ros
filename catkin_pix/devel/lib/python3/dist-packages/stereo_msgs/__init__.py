@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/stereo_msgs/lib/python3/dist-packages/stereo_msgs/__init__.py

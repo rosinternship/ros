@@ -1,0 +1,21 @@
+ros_comm/tools/rosbag
+/home/rishi/catkin_pix/devel/.private/rosbag/bin/rosbag /home/rishi/catkin_pix/devel/bin/rosbag
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/librosbag.so /home/rishi/catkin_pix/devel/lib/librosbag.so
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/pkgconfig/rosbag.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosbag.pc
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/python3/dist-packages/rosbag/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosbag/__init__.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/play /home/rishi/catkin_pix/devel/lib/rosbag/play
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/topic_renamer.py /home/rishi/catkin_pix/devel/lib/rosbag/topic_renamer.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/record /home/rishi/catkin_pix/devel/lib/rosbag/record
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/encrypt /home/rishi/catkin_pix/devel/lib/rosbag/encrypt
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/fix_msg_defs.py /home/rishi/catkin_pix/devel/lib/rosbag/fix_msg_defs.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/fastrebag.py /home/rishi/catkin_pix/devel/lib/rosbag/fastrebag.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/bagsort.py /home/rishi/catkin_pix/devel/lib/rosbag/bagsort.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/savemsg.py /home/rishi/catkin_pix/devel/lib/rosbag/savemsg.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/fixbag_batch.py /home/rishi/catkin_pix/devel/lib/rosbag/fixbag_batch.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/bag2png.py /home/rishi/catkin_pix/devel/lib/rosbag/bag2png.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/makerule.py /home/rishi/catkin_pix/devel/lib/rosbag/makerule.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/fix_moved_messages.py /home/rishi/catkin_pix/devel/lib/rosbag/fix_moved_messages.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/fix_md5sums.py /home/rishi/catkin_pix/devel/lib/rosbag/fix_md5sums.py
+/home/rishi/catkin_pix/devel/.private/rosbag/lib/rosbag/fixbag.py /home/rishi/catkin_pix/devel/lib/rosbag/fixbag.py
+/home/rishi/catkin_pix/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig.cmake /home/rishi/catkin_pix/devel/share/rosbag/cmake/rosbagConfig.cmake
+/home/rishi/catkin_pix/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosbag/cmake/rosbagConfig-version.cmake

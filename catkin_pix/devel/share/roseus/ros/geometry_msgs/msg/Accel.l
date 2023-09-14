@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/geometry_msgs/share/roseus/ros/geometry_msgs/msg/Accel.l

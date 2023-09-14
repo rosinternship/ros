@@ -1,0 +1,5 @@
+roscpp_core/cpp_common
+/home/rishi/catkin_pix/devel/.private/cpp_common/lib/libcpp_common.so /home/rishi/catkin_pix/devel/lib/libcpp_common.so
+/home/rishi/catkin_pix/devel/.private/cpp_common/lib/pkgconfig/cpp_common.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/cpp_common.pc
+/home/rishi/catkin_pix/devel/.private/cpp_common/share/cpp_common/cmake/cpp_commonConfig-version.cmake /home/rishi/catkin_pix/devel/share/cpp_common/cmake/cpp_commonConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/cpp_common/share/cpp_common/cmake/cpp_commonConfig.cmake /home/rishi/catkin_pix/devel/share/cpp_common/cmake/cpp_commonConfig.cmake

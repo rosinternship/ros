@@ -1,0 +1,5 @@
+Symlinking /home/rishi/catkin_pix/devel/bin/rosmaster
+Symlinking /home/rishi/catkin_pix/devel/lib/pkgconfig/rosmaster.pc
+Symlinking /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosmaster/__init__.py
+Symlinking /home/rishi/catkin_pix/devel/share/rosmaster/cmake/rosmasterConfig.cmake
+Symlinking /home/rishi/catkin_pix/devel/share/rosmaster/cmake/rosmasterConfig-version.cmake

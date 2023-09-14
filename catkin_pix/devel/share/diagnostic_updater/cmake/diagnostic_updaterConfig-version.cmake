@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/diagnostic_updater/share/diagnostic_updater/cmake/diagnostic_updaterConfig-version.cmake

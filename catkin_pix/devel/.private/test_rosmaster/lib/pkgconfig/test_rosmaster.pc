@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/test_rosmaster
+
+Name: test_rosmaster
+Description: Description of test_rosmaster
+Version: 1.16.0
+Cflags: -I/home/rishi/catkin_pix/devel/.private/test_rosmaster/include
+Libs: -L${prefix}/lib 
+Requires: 

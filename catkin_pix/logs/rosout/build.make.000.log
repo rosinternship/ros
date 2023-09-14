@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target rosout[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rosout.dir/rosout.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/rishi/catkin_pix/devel/.private/rosout/lib/rosout/rosout[0m
+[100%] Built target rosout

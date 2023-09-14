@@ -1,0 +1,8 @@
+prefix=/home/rishi/catkin_pix/devel/.private/gencpp
+
+Name: gencpp
+Description: Description of gencpp
+Version: 0.6.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: genmsg

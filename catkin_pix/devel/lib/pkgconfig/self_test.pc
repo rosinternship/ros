@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/self_test/lib/pkgconfig/self_test.pc

@@ -1,0 +1,6 @@
+ros_comm/tools/rosbag_storage
+/home/rishi/catkin_pix/devel/.private/rosbag_storage/lib/librosbag_storage.so /home/rishi/catkin_pix/devel/lib/librosbag_storage.so
+/home/rishi/catkin_pix/devel/.private/rosbag_storage/lib/librosbag_default_encryption_plugins.so /home/rishi/catkin_pix/devel/lib/librosbag_default_encryption_plugins.so
+/home/rishi/catkin_pix/devel/.private/rosbag_storage/lib/pkgconfig/rosbag_storage.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosbag_storage.pc
+/home/rishi/catkin_pix/devel/.private/rosbag_storage/share/rosbag_storage/cmake/rosbag_storageConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosbag_storage/cmake/rosbag_storageConfig-version.cmake
+/home/rishi/catkin_pix/devel/.private/rosbag_storage/share/rosbag_storage/cmake/rosbag_storageConfig.cmake /home/rishi/catkin_pix/devel/share/rosbag_storage/cmake/rosbag_storageConfig.cmake

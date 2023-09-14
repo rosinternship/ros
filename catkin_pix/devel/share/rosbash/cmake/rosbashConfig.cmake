@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosbash/share/rosbash/cmake/rosbashConfig.cmake

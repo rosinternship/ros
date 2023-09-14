@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/xmlrpcpp/lib/pkgconfig/xmlrpcpp.pc

@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosclean/lib/python3/dist-packages/rosclean/__init__.py

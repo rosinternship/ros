@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/catkin/lib/python3/dist-packages/catkin/__init__.py

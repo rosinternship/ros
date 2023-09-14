@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosmaster/lib/python3/dist-packages/rosmaster/__init__.py

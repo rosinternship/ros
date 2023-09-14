@@ -1,0 +1,6 @@
+ros/tools/roscreate
+/home/rishi/catkin_pix/devel/.private/roscreate/bin/roscreate-pkg /home/rishi/catkin_pix/devel/bin/roscreate-pkg
+/home/rishi/catkin_pix/devel/.private/roscreate/lib/pkgconfig/roscreate.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/roscreate.pc
+/home/rishi/catkin_pix/devel/.private/roscreate/lib/python3/dist-packages/roscreate/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/roscreate/__init__.py
+/home/rishi/catkin_pix/devel/.private/roscreate/share/roscreate/cmake/roscreateConfig.cmake /home/rishi/catkin_pix/devel/share/roscreate/cmake/roscreateConfig.cmake
+/home/rishi/catkin_pix/devel/.private/roscreate/share/roscreate/cmake/roscreateConfig-version.cmake /home/rishi/catkin_pix/devel/share/roscreate/cmake/roscreateConfig-version.cmake

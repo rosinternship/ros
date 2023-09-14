@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/test_rosgraph/lib/pkgconfig/test_rosgraph.pc

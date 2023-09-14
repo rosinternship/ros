@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/diagnostic_msgs/lib/python3/dist-packages/diagnostic_msgs/srv/_SelfTest.py

@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosgraph_msgs/lib/pkgconfig/rosgraph_msgs.pc

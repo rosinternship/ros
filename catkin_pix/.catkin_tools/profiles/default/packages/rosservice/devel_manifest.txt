@@ -1,0 +1,7 @@
+ros_comm/tools/rosservice
+/home/rishi/catkin_pix/devel/.private/rosservice/bin/rosservice /home/rishi/catkin_pix/devel/bin/rosservice
+/home/rishi/catkin_pix/devel/.private/rosservice/lib/rosservice/rosservice /home/rishi/catkin_pix/devel/lib/rosservice/rosservice
+/home/rishi/catkin_pix/devel/.private/rosservice/lib/pkgconfig/rosservice.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/rosservice.pc
+/home/rishi/catkin_pix/devel/.private/rosservice/lib/python3/dist-packages/rosservice/__init__.py /home/rishi/catkin_pix/devel/lib/python3/dist-packages/rosservice/__init__.py
+/home/rishi/catkin_pix/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig.cmake /home/rishi/catkin_pix/devel/share/rosservice/cmake/rosserviceConfig.cmake
+/home/rishi/catkin_pix/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig-version.cmake /home/rishi/catkin_pix/devel/share/rosservice/cmake/rosserviceConfig-version.cmake

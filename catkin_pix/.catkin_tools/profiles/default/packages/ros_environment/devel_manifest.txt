@@ -1,0 +1,9 @@
+ros_environment
+/home/rishi/catkin_pix/devel/.private/ros_environment/etc/catkin/profile.d/1.ros_python_version.sh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_python_version.sh
+/home/rishi/catkin_pix/devel/.private/ros_environment/etc/catkin/profile.d/1.ros_distro.sh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_distro.sh
+/home/rishi/catkin_pix/devel/.private/ros_environment/etc/catkin/profile.d/1.ros_package_path.sh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_package_path.sh
+/home/rishi/catkin_pix/devel/.private/ros_environment/etc/catkin/profile.d/1.ros_etc_dir.sh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_etc_dir.sh
+/home/rishi/catkin_pix/devel/.private/ros_environment/etc/catkin/profile.d/1.ros_version.sh /home/rishi/catkin_pix/devel/etc/catkin/profile.d/1.ros_version.sh
+/home/rishi/catkin_pix/devel/.private/ros_environment/lib/pkgconfig/ros_environment.pc /home/rishi/catkin_pix/devel/lib/pkgconfig/ros_environment.pc
+/home/rishi/catkin_pix/devel/.private/ros_environment/share/ros_environment/cmake/ros_environmentConfig.cmake /home/rishi/catkin_pix/devel/share/ros_environment/cmake/ros_environmentConfig.cmake
+/home/rishi/catkin_pix/devel/.private/ros_environment/share/ros_environment/cmake/ros_environmentConfig-version.cmake /home/rishi/catkin_pix/devel/share/ros_environment/cmake/ros_environmentConfig-version.cmake

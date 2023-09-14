@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/class_loader/share/class_loader/cmake/class_loaderConfig.cmake

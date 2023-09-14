@@ -1,0 +1,1 @@
+/home/rishi/catkin_pix/devel/.private/rosparam/share/rosparam/cmake/rosparamConfig.cmake
